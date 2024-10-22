@@ -1,9 +1,3 @@
-## Info
-Lowest Price Offer | Pay :- ₹ 200 For India Users https://imjo.in/QDdBze for getting database scripts.
-
-Lowest Price Offer | Pay :- $ 3.00 here  https://payhip.com/b/vJ1L for getting database scripts.
-
-
 # Angular 7 Project with ASP.NET CORE APIS (GYM PROJECT)
 
 <img src="https://github.com/saineshwar/Angular-7-Project-with-ASP.NET-CORE-APIS-/blob/master/Images/banner.png?raw=true" alt="Banner" title="Banner" style="max-width:100%;">
